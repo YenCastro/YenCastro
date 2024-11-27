@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋,  Mi nombre es Yenny</h1>
+<h1 align="left">Hola,  Mi nombre es Yenny</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🌱 Desarrolladora web front-end con experiencia sólida en HTML, CSS y JavaScript, y en constante exploración del mundo del desarrollo backend con Python. Apasionada por la adaptación a nuevos desafíos y la búsqueda constante de aprendizaje autodidacta. Comprometida con la creación de experiencias digitales impactantes y soluciones eficientes. ¡Bienvenido a mi repositorio!</h4>
+<h4 align="left">Desarrolladora web front-end con experiencia sólida en HTML, CSS y JavaScript, y en constante exploración del mundo del desarrollo backend con Python. Apasionada por la adaptación a nuevos desafíos y la búsqueda constante de aprendizaje autodidacta. Comprometida con la creación de experiencias digitales impactantes y soluciones eficientes. ¡Bienvenido a mi repositorio!</h4>
 
 ###
 
